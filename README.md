@@ -42,6 +42,6 @@
 
 ## Connect with me:
 <p align="left">
-    <a href = "https://www.linkedin.com/in/razu-molla/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-    <a href = "https://www.facebook.com/profile.php?id=100010189419477"><img src="https://img.icons8.com/fluency/48/000000/facebook.png"/></a>
+    <a href = "https://www.linkedin.com/in/razu-molla/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+    <a href = "https://www.facebook.com/profile.php?id=100010189419477" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/facebook.png"/></a>
 </p>
