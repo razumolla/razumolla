@@ -16,7 +16,7 @@
   - 📫 How to reach me - **razumolla75@gmail.com**
     - [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/razu-molla/) 
   
-  - ⚡ All Of my project are available on my **[Portfolio](https://razu-molla.web.app/)**
+  - ⚡ All Of my project are available on my **[Portfolio](https://razu-molla.vercel.app/)**
 
   </td>
   
@@ -41,7 +41,7 @@ Actively working with:
   - Redux, React Hook Form,Formik, Yup, Zod, Joi
   - Bootsatrap, Daisy UI, Material UI, Ant Design
   Backend:
-  - Node.js, Express.js
+  - Node.js, Express.js, Nest.js
   - REST API
   Database:
   - PostgreSQL, MySQL, MongoDB
