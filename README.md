@@ -9,14 +9,15 @@
 <tr border="none">
   <td width="50%" align="left">
     
-  - 🌱🧑‍🎓 I’m currently learning **Javascript**
+   🧑‍🎓 currently learning: **Javascript** 🌱
     
-  - 💬 Ask me about **JS, React, Express**
+   💬 Ask Me About: **Javascript, NodeJs, Express**
     
-  - 📫 How to reach me - **razumolla75@gmail.com**
-    - [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/razu-molla/) 
+   📫 How to reach me - **razumolla75@gmail.com**
+   
+   🤝 Let's connect :  [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/razu-molla/) 
   
-  - ⚡ All Of my project are available on my **[Portfolio](https://razu-molla.vercel.app/)**
+   ⚡ Simple introduction : **[Portfolio](https://razu-molla.vercel.app/)**
 
   </td>
   
@@ -36,19 +37,19 @@ Actively working with:
   Languages:
   - JavaScript, TypeScript
   Frontend:
-  - HTML, CSS3, SCSS, Tailwind CSS, Styled Components
-  - React.js, Next.js
-  - Redux, React Hook Form,Formik, Yup, Zod, Joi
-  - Bootsatrap, Daisy UI, Material UI, Ant Design
+  - React.js, Next.js, 
+  - Redux, Material UI, Ant Design
   Backend:
   - Node.js, Express.js, Nest.js
   - REST API
   Database:
-  - PostgreSQL, MySQL, MongoDB
+  - PostgreSQL, MongoDB
   Testing:
   - Unit, Integration testing with Jest
-  Deployment: 
+  Version Control:: 
   - Git, Github, Bitbucket
+  Deployment:
+  - VPS, Varcel, Firebase
   Other:
   - OOP, MVC, Agile
 ```
@@ -61,3 +62,19 @@ Actively working with:
   <img src="http://github-readme-streak-stats.herokuapp.com?user=razumolla&theme=tokyonight&date_format=j%20M%5B%20Y%5D&border=1A1B27"/>
     
 </p> 
+
+## `Problem-solving:`
+
+> 🔸 [![Codewars Badge](https://img.shields.io/badge/Code%20wars%20-%20red)](https://www.codewars.com/users/razumolla)  
+> 🔸 [![CodeChef Badge](https://img.shields.io/badge/CodeChef%20-%20blue)](https://www.codechef.com/users/razu_molla)
+
+
+<br/>
+
+## 🎀**Employment History:**
+| Position              | Company                           | Duration             | Job Type           |  Location           |
+| --------------------- | --------------------------------- | -------------------- | ------------------ | --------------------|
+| Software Developer    | HK IT Limited       | May 2023 - present  | Full-Time          | Dhaka, Bangladesh    |
+| Web Developer     | Web Developer      | Jan 2023 - Apr 2023  | Internship         | Dhaka, Bangladesh      |
+
+<br/>
