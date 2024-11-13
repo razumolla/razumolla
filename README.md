@@ -12,12 +12,14 @@
    🧑‍🎓 currently learning: **Javascript** 🌱
     
    💬 Ask Me About: **Javascript, NodeJs, Express**
-    
-   📫 How to reach me - **razumolla75@gmail.com**
+   
+   ⚡ Simple Introduction About Me : **[Portfolio](https://razu-molla.vercel.app/)**
    
    🤝 Let's connect :  [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/razu-molla/) 
   
-   ⚡ Simple introduction : **[Portfolio](https://razu-molla.vercel.app/)**
+   📧 Email : **razumolla75@gmail.com** 
+   
+   📞  Phone : +880 1770 309969
 
   </td>
   
@@ -27,8 +29,9 @@
 </tr>
 </table>
 
+<br/>
 
-### Tech Stacks I've worked with
+### 💻 Tech Stacks I've worked with
 
 _I'm working **full-stack**, but heavily focused on **Backend**_
 
@@ -56,6 +59,28 @@ Actively working with:
 
 *If at first, you don’t succeed; call it version 1.0*
 
+
+## **Problem-solving:**
+
+>  [![CodeChef Badge](https://img.shields.io/badge/CodeChef%20-%20blue)](https://www.codechef.com/users/razu_molla)
+
+>  [![Codewars Badge](https://img.shields.io/badge/Code%20wars%20-%20red)](https://www.codewars.com/users/razumolla)  
+
+
+<br/>
+
+## 📊 **My working stats:**
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <img
+        style="max-width: 100%; height: auto;"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=razumolla&theme=blue_green"
+        alt="Profile details"
+      />
+    </td>
+  </tr>
+
+
 <!--  -->
 <p>
   
@@ -63,13 +88,6 @@ Actively working with:
     
 </p> 
 
-## `Problem-solving:`
-
-> 🔸 [![Codewars Badge](https://img.shields.io/badge/Code%20wars%20-%20red)](https://www.codewars.com/users/razumolla)  
-> 🔸 [![CodeChef Badge](https://img.shields.io/badge/CodeChef%20-%20blue)](https://www.codechef.com/users/razu_molla)
-
-
-<br/>
 
 ## 🎀**Employment History:**
 | Position              | Company                           | Duration             | Job Type           |  Location           |
