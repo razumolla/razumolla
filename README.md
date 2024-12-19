@@ -11,7 +11,7 @@
     
    🧑‍🎓 currently learning: **Javascript** 🌱
     
-   💬 Ask Me About: **Javascript, NodeJs, Express**
+   💬 Ask Me About: **Javascript, NodeJs**
    
    ⚡ Simple Introduction About Me : **[Portfolio](https://razu-molla.vercel.app/)**
    
@@ -90,9 +90,9 @@ Actively working with:
 
 
 ## 🎀**Employment History:**
-| Position              | Company                           | Duration             | Job Type           |  Location           |
-| --------------------- | --------------------------------- | -------------------- | ------------------ | --------------------|
-| Software Developer    | HK IT Limited       | May 2023 - present  | Full-Time          | Dhaka, Bangladesh    |
-| Web Developer     | Web Developer      | Jan 2023 - Apr 2023  | Internship         | Dhaka, Bangladesh      |
+| Position              | Company              | Duration                                | Job Type           |  Location            |
+| --------------------- | -------------------- | --------------------------------------- | ------------------ | ---------------------|
+| Software Developer    | HK IT Limited        | May 2023 - present (1 year 8 months)    | Full-Time          | Dhaka, Bangladesh    |
+| Web Developer         | Goinnovior Limited   | Jan 2023 - Apr 2023  (4 Months)         | Internship         | Dhaka, Bangladesh    |
 
 <br/>
