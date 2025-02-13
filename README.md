@@ -92,7 +92,7 @@ Actively working with:
 ## 🎀**Employment History:**
 | Position              | Company              | Duration                                | Job Type           |  Location            |
 | --------------------- | -------------------- | --------------------------------------- | ------------------ | ---------------------|
-| Software Developer    | HK IT Limited        | May 2023 - present (1 year 8 months)    | Full-Time          | Dhaka, Bangladesh    |
+| Software Developer    | HK IT Limited        | May 2023 - present (1 year 10 months)    | Full-Time          | Dhaka, Bangladesh    |
 | Web Developer         | Goinnovior Limited   | Jan 2023 - Apr 2023  (4 Months)         | Internship         | Dhaka, Bangladesh    |
 
 <br/>
