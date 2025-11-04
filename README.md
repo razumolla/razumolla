@@ -92,8 +92,9 @@ Actively working with:
 ## 🎀**Employment History:**
 | Position              | Company              | Duration                                | Job Type           |  Location            |
 | --------------------- | -------------------- | --------------------------------------- | ------------------ | ---------------------|
-| Software Engineer     | JoulesLabs           | November 2025 - present                 | Full-Time          | Dhaka, Bangladesh    |
-| Software Developer    | HK IT Limited        | May 2023 - October 2025                 | Full-Time          | Dhaka, Bangladesh    |
+| Software Engineer     | JoulesLabs           | Nov 2025 - present                      | Full-Time          | Dhaka, Bangladesh    |
+| Frontend Developer    | Virleaf              | Jan 2025- Oct 2025                      | Full-Time          | Dhaka, Bangladesh    |
+| Software Developer    | HK IT Limited        | May 2023 - Dec 2025                     | Full-Time          | Dhaka, Bangladesh    |
 | Web Developer         | Goinnovior Limited   | Jan 2023 - Apr 2023                     | Internship         | Dhaka, Bangladesh    |
 
 <br/>
