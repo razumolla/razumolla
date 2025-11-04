@@ -1,6 +1,6 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Md. Razu Molla from 🇧🇩 </h1>
-<h3 align="center"> Software Developer at HK IT Limited  </h3>
+<h3 align="center"> Software Engineer at JoulesLabs  </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=razumolla&label=Profile%20views&color=0e75b6&style=flat" alt="razumolla" /> </p>
 
 
@@ -92,7 +92,8 @@ Actively working with:
 ## 🎀**Employment History:**
 | Position              | Company              | Duration                                | Job Type           |  Location            |
 | --------------------- | -------------------- | --------------------------------------- | ------------------ | ---------------------|
-| Software Developer    | HK IT Limited        | May 2023 - present (1 year 10 months)    | Full-Time          | Dhaka, Bangladesh    |
-| Web Developer         | Goinnovior Limited   | Jan 2023 - Apr 2023  (4 Months)         | Internship         | Dhaka, Bangladesh    |
+| Software Engineer     | JoulesLabs           | November 2025 - present                 | Full-Time          | Dhaka, Bangladesh    |
+| Software Developer    | HK IT Limited        | May 2023 - October 2025                 | Full-Time          | Dhaka, Bangladesh    |
+| Web Developer         | Goinnovior Limited   | Jan 2023 - Apr 2023                     | Internship         | Dhaka, Bangladesh    |
 
 <br/>
