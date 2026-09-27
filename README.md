@@ -41,9 +41,9 @@ Actively working with:
   - JavaScript, TypeScript
   Frontend:
   - React.js, Next.js, 
-  - Redux, Material UI, Ant Design
+  - Redux, Material UI, Ant Design, Zustand, TanStack, Shadcn UI, Tailwind CSS 
   Backend:
-  - Node.js, Express.js, Nest.js
+  - Node.js, Express.js, Nest.js, Strapi
   - REST API
   Database:
   - PostgreSQL, MongoDB
@@ -54,7 +54,7 @@ Actively working with:
   Deployment:
   - VPS, Varcel, Firebase
   Other:
-  - OOP, MVC, Agile
+  - OOP, MVC, Agile, 
 ```
 
 *If at first, you don’t succeed; call it version 1.0*
